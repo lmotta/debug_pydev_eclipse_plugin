@@ -1,0 +1,19 @@
+[general]
+name=debugpydeveclipse
+description=Plugin to connect PyDev Eclipse remote debugger
+
+version=0.2
+qgisMinimumVersion=2.14
+# category=
+author=Luiz Motta
+email=motta.luiz@gmail.com
+
+changelog=0.1
+  - Start of plugin
+tags=eclipse,debug
+#homepage=
+#tracker=
+#repository=
+icon=start_debug.png
+experimental=True
+deprecated=False
